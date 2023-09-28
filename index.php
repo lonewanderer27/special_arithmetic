@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
 <?php
 function product(int $int1, int $int2): int
 {
@@ -30,7 +26,17 @@ function remainder(int $int1, int $int2): int
   }
   return $result;
 }
+?>
 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Special Arithmetic</title>
+</head>
+<body>
+
+<?php
 echo product(3, 2);
 echo quotient(10, 2);
 echo remainder(10, 3);
