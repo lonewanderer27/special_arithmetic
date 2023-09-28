@@ -33,6 +33,7 @@ function remainder(int $int1, int $int2): int
 <head>
 <meta charset="UTF-8">
 <title>Special Arithmetic</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@materializecss/materialize@2.0.2-alpha/dist/css/materialize.min.css">
 </head>
 <body>
 
