@@ -1,0 +1,4 @@
+name: special_arithmetic
+recipe: lamp
+config:
+  webroot: .
